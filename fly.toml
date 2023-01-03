@@ -1,12 +1,12 @@
 # Set app name below, replace APP-NAME
 
-app = "APP-NAME"
+app = "broken-frog-1226"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = []
 
 [env]
-  CONFIG_ENV_URL = ""
+  CONFIG_ENV_URL = "https://gist.githubusercontent.com/pk3011/c4eb4e5abf4961f7c5735455afc23ac7/raw/config.env"
 
 # No need to touch below
 
